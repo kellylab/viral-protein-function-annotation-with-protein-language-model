@@ -11,19 +11,19 @@ PHROG_index_revised_v4_10292022.csv (4.1 Mb) from: https://storage.googleapis.co
 
 To download sequence embeddings generated for this project:
 
-1) PHROG families- each directory contains 38,800 pkl objects corresponding to the 38,880 viral protein families in PHROGs. To download the pkl objects, use the base url below + 'phrog_#.pkl' for the phrog of interest. For example- for the Transformer_BFD embeddings of PHROG 1- https://storage.googleapis.com/viral_protein_family_plm_embeddings/phrogs/protbert_bfd_embeddings_phrog/phrog_1.pkl. pkl object size varies with number of sequences the family. Embedding order in the object corresponds to the order of the sequences in the corresponding phrog faa file, which can be downloaded from https://storage.googleapis.com/viral_protein_family_plm_embeddings/phrogs/faa_downloaded_04052022/ with + 'phrog_#.faa'.
+1) PHROG families- each directory contains 38,800 pkl objects corresponding to the 38,880 viral protein families in PHROGs. To download the pkl objects, use the base url below + 'phrog_#.pkl' for the phrog of interest.  
+For example- for the Transformer_BFD embeddings of PHROG 1- https://storage.googleapis.com/viral_protein_family_plm_embeddings/phrogs/protbert_bfd_embeddings_phrog/phrog_1.pkl. pkl object size varies with number of sequences the family.  
+Embedding order in the object corresponds to the order of the sequences in the corresponding phrog faa file, which can be downloaded from https://storage.googleapis.com/viral_protein_family_plm_embeddings/phrogs/faa_downloaded_04052022/ with + 'phrog_#.faa'.  
 
-Transformer_BFD from: https://storage.googleapis.com/viral_protein_family_plm_embeddings/phrogs/protbert_bfd_embeddings_phrog/
-LSTM_Uniref90 from: https://storage.googleapis.com/viral_protein_family_plm_embeddings/phrogs/bepler_dlm_embed_phrog/
-LSTM_Uniref90_MT from: https://storage.googleapis.com/viral_protein_family_plm_embeddings/phrogs/bepler_mt_embed_phrog/
-Transformer_Uniref90_MT from: https://storage.googleapis.com/viral_protein_family_plm_embeddings/phrogs/proteinbert_embeddings_phrog/
-
+Transformer_BFD from: https://storage.googleapis.com/viral_protein_family_plm_embeddings/phrogs/protbert_bfd_embeddings_phrog/  
+LSTM_Uniref90 from: https://storage.googleapis.com/viral_protein_family_plm_embeddings/phrogs/bepler_dlm_embed_phrog/  
+LSTM_Uniref90_MT from: https://storage.googleapis.com/viral_protein_family_plm_embeddings/phrogs/bepler_mt_embed_phrog/  
+Transformer_Uniref90_MT from: https://storage.googleapis.com/viral_protein_family_plm_embeddings/phrogs/proteinbert_embeddings_phrog/  
 
 2) EFAM sequences- downloaded as a single pkl dictionary object with sequence:embedding. All embedding done with Transformer_BFD. 
 
-EFAM embeddings (10.2 Gb)- https://storage.googleapis.com/viral_protein_family_plm_embeddings/efam/identifier_to_vector_protbert_bdf_11012022_dict.pkl
+EFAM embeddings (10.2 Gb)- https://storage.googleapis.com/viral_protein_family_plm_embeddings/efam/identifier_to_vector_protbert_bdf_11012022_dict.pkl  
 EFAM protein fasta used (767.5 Mb)- https://storage.googleapis.com/viral_protein_family_plm_embeddings/efam/dereplicated_filtered_proteins_efam_downloaded_10162022.faa
-
 
 3) PHANN sequences- downloaded as a single pkl dictionary object with sequence:embedding. ll embedding done with Transformer_BFD. 
 
