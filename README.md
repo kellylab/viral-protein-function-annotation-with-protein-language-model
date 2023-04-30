@@ -6,6 +6,8 @@ Final_Super_Condensed_Annotations-updated_efam.tsv (184.8 Mb) from: https://stor
 PHROG_index_downloaded_01232022.csv (4.4 Mb) from: https://storage.googleapis.com/viral_protein_family_plm_embeddings/phrogs/PHROG_index_downloaded_01232022.csv 
 PHROG_index_revised_v4_10292022.csv (4.1 Mb) from: https://storage.googleapis.com/viral_protein_family_plm_embeddings/phrogs/PHROG_index_revised_v4_10292022.csv 
 
+(phrog classifier training only) protbert_bfd_embeddings_phrog/ (38,800 pkl objects) from: https://storage.googleapis.com/viral_protein_family_plm_embeddings/phrogs/protbert_bfd_embeddings_phrog/ + 'phrog_#' for all 38,880 PHROG families
+
 (figure3 only) phrog_familiy_centroid/ (38,880 pkl objects, \~4.1Kb/per) from: https://storage.googleapis.com/viral_protein_family_plm_embeddings/phrogs/phrog_family_centroid/ + 'phrog_#' for all 38,880 PHROG families
 
 
