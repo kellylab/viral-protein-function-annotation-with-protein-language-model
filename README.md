@@ -1,7 +1,7 @@
 # viral-protein-function-annotation-with-protein-language-model
 Accompanying jupyter notebooks and data for figure generation for published manuscript
 
-to run notebooks data must be downloaded from project google cloud platform bucket:  
+to run notebooks data must be downloaded from project google cloud platform bucket and stored in the root directory:  
 Final_Super_Condensed_Annotations-updated_efam.tsv (184.8 Mb) from: https://storage.googleapis.com/viral_protein_family_plm_embeddings/efam/Final_Super_Condensed_Annotations-updated_efam.tsv
 PHROG_index_downloaded_01232022.csv (4.4 Mb) from: https://storage.googleapis.com/viral_protein_family_plm_embeddings/phrogs/PHROG_index_downloaded_01232022.csv 
 PHROG_index_revised_v4_10292022.csv (4.1 Mb) from: https://storage.googleapis.com/viral_protein_family_plm_embeddings/phrogs/PHROG_index_revised_v4_10292022.csv 
