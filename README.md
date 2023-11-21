@@ -32,3 +32,8 @@ EFAM protein fasta used (767.5 Mb)- https://storage.googleapis.com/viral_protein
 3) PHANN sequences- downloaded as a single pkl dictionary object with sequence:embedding. All embedding done with Transformer_BFD. 
 
 PHANN embeddings (2.1 Gb)- https://storage.googleapis.com/viral_protein_family_plm_embeddings/phanns/all_sequence_ids_to_vectors_dict.pkl
+
+
+
+Citation:
+[![DOI](https://zenodo.org/badge/631043489.svg)](https://zenodo.org/doi/10.5281/zenodo.10182750)
