@@ -8,9 +8,9 @@ PHROG_index_revised_v4_10292022.csv (4.1 Mb) from: https://storage.googleapis.co
 
 (function classifier training only) protbert_bfd_embeddings_phrog/ (38,800 pkl objects) from: https://storage.googleapis.com/viral_protein_family_plm_embeddings/phrogs/protbert_bfd_embeddings_phrog/ + 'phrog_#' for all 38,880 PHROG families
 
-(figure3 only) phrog_familiy_centroid/ (38,880 pkl objects, \~4.1Kb/per) from: https://storage.googleapis.com/viral_protein_family_plm_embeddings/phrogs/phrog_family_centroid/ + 'phrog_#' for all 38,880 PHROG families
+(figure4 only) phrog_familiy_centroid/ (38,880 pkl objects, \~4.1Kb/per) from: https://storage.googleapis.com/viral_protein_family_plm_embeddings/phrogs/phrog_family_centroid/ + 'phrog_#' for all 38,880 PHROG families
 
-(table1 only) all_sequence_ids_to_vectors_dict.pkl (2.1 Gb) from: https://storage.googleapis.com/viral_protein_family_plm_embeddings/phanns/all_sequence_ids_to_vectors_dict.pkl
+(supplemental table3 only) all_sequence_ids_to_vectors_dict.pkl (2.1 Gb) from: https://storage.googleapis.com/viral_protein_family_plm_embeddings/phanns/all_sequence_ids_to_vectors_dict.pkl
 
 
 To download sequence embeddings generated for this project:
